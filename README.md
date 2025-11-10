@@ -8,7 +8,7 @@ Now that we’ve discussed more about object oriented design philosophies and te
 
 ### Screenshot
 
-![Cash Register Test](screenshot.png)
+![Cash Register Test](Screenshot.png)
 
 ## Instructions
 
