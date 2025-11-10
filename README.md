@@ -6,6 +6,10 @@ Now that we’ve discussed more about object oriented design philosophies and te
 * [GitHub Repo](https://github.com/learn-co-curriculum/oop-p2-cash-register-lab)
 * [Python Classes](https://docs.python.org/3/tutorial/classes.html)
 
+### Screenshot
+
+![Cash Register Test](screenshot.png)
+
 ## Instructions
 
 ### Set Up
